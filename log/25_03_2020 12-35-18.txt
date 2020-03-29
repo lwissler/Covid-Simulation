@@ -1,0 +1,147 @@
+Wed Mar 25 12:35:18 CET 2020: ---------------------3-------------------------
+Building population..
+0 1000000 2000000 3000000 4000000 5000000 6000000 7000000 8000000 9000000 10000000 11000000 12000000 13000000 14000000 15000000 16000000 17000000 18000000 19000000 20000000 21000000 22000000 23000000 24000000 25000000 26000000 27000000 28000000 29000000 30000000 31000000 32000000 33000000 34000000 35000000 36000000 37000000 38000000 39000000 40000000 41000000 42000000 43000000 44000000 45000000 46000000 47000000 48000000 49000000 50000000 51000000 52000000 53000000 54000000 55000000 56000000 57000000 58000000 59000000 60000000 61000000 62000000 63000000 64000000 65000000 66000000 67000000 68000000 69000000 70000000 71000000 72000000 73000000 74000000 75000000 76000000 77000000 78000000 79000000 80000000 81000000 82000000 
+Elapsed Time State change: 0.0 Minutes
+0 30.01. total touched: 105 infected: 105 recovered: 0 hospitalized: 0 intensive care: 0 dead: 0 positiv tested: 0 total tested: 1000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+1 31.01. total touched: 128 infected: 128 recovered: 0 hospitalized: 0 intensive care: 0 dead: 0 positiv tested: 0 total tested: 2000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+2 01.02. total touched: 171 infected: 171 recovered: 0 hospitalized: 0 intensive care: 0 dead: 0 positiv tested: 0 total tested: 3000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+3 02.02. total touched: 215 infected: 215 recovered: 0 hospitalized: 0 intensive care: 0 dead: 0 positiv tested: 0 total tested: 4000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+4 03.02. total touched: 265 infected: 265 recovered: 0 hospitalized: 0 intensive care: 0 dead: 0 positiv tested: 0 total tested: 5000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+5 04.02. total touched: 322 infected: 322 recovered: 0 hospitalized: 0 intensive care: 0 dead: 0 positiv tested: 0 total tested: 6000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+6 05.02. total touched: 403 infected: 403 recovered: 0 hospitalized: 0 intensive care: 0 dead: 0 positiv tested: 0 total tested: 7000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+7 06.02. total touched: 499 infected: 499 recovered: 0 hospitalized: 0 intensive care: 0 dead: 0 positiv tested: 0 total tested: 8000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+8 07.02. total touched: 645 infected: 645 recovered: 0 hospitalized: 0 intensive care: 0 dead: 0 positiv tested: 0 total tested: 9000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+9 08.02. total touched: 801 infected: 801 recovered: 0 hospitalized: 1 intensive care: 0 dead: 0 positiv tested: 0 total tested: 10000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+10 09.02. total touched: 1022 infected: 1022 recovered: 0 hospitalized: 1 intensive care: 0 dead: 0 positiv tested: 0 total tested: 11500 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+11 10.02. total touched: 1280 infected: 1280 recovered: 0 hospitalized: 2 intensive care: 0 dead: 0 positiv tested: 0 total tested: 13000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+12 11.02. total touched: 1609 infected: 1609 recovered: 0 hospitalized: 3 intensive care: 0 dead: 0 positiv tested: 0 total tested: 14500 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+13 12.02. total touched: 2000 infected: 2000 recovered: 0 hospitalized: 4 intensive care: 0 dead: 0 positiv tested: 0 total tested: 16000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+14 13.02. total touched: 2507 infected: 2507 recovered: 0 hospitalized: 5 intensive care: 0 dead: 0 positiv tested: 1 total tested: 17500 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+15 14.02. total touched: 2980 infected: 2980 recovered: 0 hospitalized: 6 intensive care: 0 dead: 0 positiv tested: 2 total tested: 19000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+16 15.02. total touched: 3489 infected: 3489 recovered: 0 hospitalized: 6 intensive care: 1 dead: 0 positiv tested: 3 total tested: 20500 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+17 16.02. total touched: 4051 infected: 4051 recovered: 0 hospitalized: 8 intensive care: 1 dead: 0 positiv tested: 3 total tested: 22000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+18 17.02. total touched: 4762 infected: 4742 recovered: 20 hospitalized: 9 intensive care: 1 dead: 0 positiv tested: 3 total tested: 23500 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+19 18.02. total touched: 5565 infected: 5522 recovered: 43 hospitalized: 9 intensive care: 2 dead: 0 positiv tested: 3 total tested: 25000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+20 19.02. total touched: 6506 infected: 6420 recovered: 86 hospitalized: 9 intensive care: 3 dead: 0 positiv tested: 4 total tested: 27500 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+21 20.02. total touched: 7597 infected: 7467 recovered: 130 hospitalized: 9 intensive care: 4 dead: 0 positiv tested: 5 total tested: 30000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+22 21.02. total touched: 8946 infected: 8766 recovered: 180 hospitalized: 9 intensive care: 5 dead: 0 positiv tested: 7 total tested: 32500 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+23 22.02. total touched: 10490 infected: 10254 recovered: 236 hospitalized: 10 intensive care: 5 dead: 1 positiv tested: 9 total tested: 35000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+24 23.02. total touched: 12304 infected: 11987 recovered: 317 hospitalized: 10 intensive care: 6 dead: 1 positiv tested: 11 total tested: 37500 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+25 24.02. total touched: 14410 infected: 13997 recovered: 413 hospitalized: 9 intensive care: 8 dead: 1 positiv tested: 14 total tested: 40000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+26 25.02. total touched: 16807 infected: 16248 recovered: 559 hospitalized: 9 intensive care: 8 dead: 1 positiv tested: 17 total tested: 42500 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+27 26.02. total touched: 19634 infected: 18919 recovered: 715 hospitalized: 10 intensive care: 8 dead: 1 positiv tested: 20 total tested: 45000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+28 27.02. total touched: 22807 infected: 21872 recovered: 935 hospitalized: 11 intensive care: 8 dead: 2 positiv tested: 24 total tested: 47500 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+29 28.02. total touched: 26607 infected: 25415 recovered: 1192 hospitalized: 11 intensive care: 9 dead: 3 positiv tested: 29 total tested: 50000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+30 29.02. total touched: 30938 infected: 29419 recovered: 1519 hospitalized: 11 intensive care: 9 dead: 5 positiv tested: 40 total tested: 55000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+31 01.03. total touched: 36162 infected: 34252 recovered: 1910 hospitalized: 12 intensive care: 9 dead: 5 positiv tested: 52 total tested: 60000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+32 02.03. total touched: 42086 infected: 39670 recovered: 2416 hospitalized: 12 intensive care: 8 dead: 6 positiv tested: 66 total tested: 65000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+33 03.03. total touched: 49092 infected: 46204 recovered: 2888 hospitalized: 14 intensive care: 9 dead: 7 positiv tested: 83 total tested: 70000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+34 04.03. total touched: 57208 infected: 53812 recovered: 3396 hospitalized: 14 intensive care: 9 dead: 8 positiv tested: 102 total tested: 75000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+35 05.03. total touched: 63854 infected: 59897 recovered: 3957 hospitalized: 13 intensive care: 11 dead: 9 positiv tested: 124 total tested: 80000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+36 06.03. total touched: 71137 infected: 66471 recovered: 4666 hospitalized: 14 intensive care: 10 dead: 11 positiv tested: 148 total tested: 85000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+37 07.03. total touched: 79411 infected: 73944 recovered: 5467 hospitalized: 14 intensive care: 11 dead: 13 positiv tested: 175 total tested: 90000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+38 08.03. total touched: 88440 infected: 82034 recovered: 6406 hospitalized: 14 intensive care: 12 dead: 15 positiv tested: 205 total tested: 95000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+39 09.03. total touched: 98526 infected: 91035 recovered: 7491 hospitalized: 14 intensive care: 13 dead: 21 positiv tested: 238 total tested: 100000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+40 10.03. total touched: 109385 infected: 100546 recovered: 8839 hospitalized: 15 intensive care: 13 dead: 22 positiv tested: 318 total tested: 111000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+41 11.03. total touched: 121792 infected: 111408 recovered: 10384 hospitalized: 15 intensive care: 14 dead: 22 positiv tested: 407 total tested: 122000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+42 12.03. total touched: 135344 infected: 123152 recovered: 12192 hospitalized: 16 intensive care: 13 dead: 28 positiv tested: 505 total tested: 133000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+43 13.03. total touched: 150348 infected: 136053 recovered: 14295 hospitalized: 16 intensive care: 14 dead: 31 positiv tested: 613 total tested: 144000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+44 14.03. total touched: 166739 infected: 150053 recovered: 16686 hospitalized: 16 intensive care: 15 dead: 37 positiv tested: 732 total tested: 155000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+45 15.03. total touched: 185063 infected: 165555 recovered: 19508 hospitalized: 17 intensive care: 15 dead: 42 positiv tested: 864 total tested: 166000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+46 16.03. total touched: 205185 infected: 182510 recovered: 22675 hospitalized: 16 intensive care: 16 dead: 49 positiv tested: 1009 total tested: 177000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+47 17.03. total touched: 227494 infected: 201028 recovered: 26466 hospitalized: 15 intensive care: 17 dead: 59 positiv tested: 1169 total tested: 188000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+48 18.03. total touched: 251721 infected: 220939 recovered: 30782 hospitalized: 16 intensive care: 17 dead: 76 positiv tested: 1345 total tested: 199000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+49 19.03. total touched: 278218 infected: 242227 recovered: 35991 hospitalized: 17 intensive care: 17 dead: 91 positiv tested: 1538 total tested: 210000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+50 20.03. total touched: 307412 infected: 265511 recovered: 41901 hospitalized: 18 intensive care: 18 dead: 106 positiv tested: 1960 total tested: 232000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+51 21.03. total touched: 339357 infected: 290475 recovered: 48882 hospitalized: 19 intensive care: 18 dead: 132 positiv tested: 2422 total tested: 254000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+52 22.03. total touched: 374441 infected: 317464 recovered: 56977 hospitalized: 20 intensive care: 20 dead: 154 positiv tested: 2927 total tested: 276000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+53 23.03. total touched: 412821 infected: 349216 recovered: 63605 hospitalized: 19 intensive care: 21 dead: 173 positiv tested: 3482 total tested: 298000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+54 24.03. total touched: 455311 infected: 384441 recovered: 70870 hospitalized: 19 intensive care: 23 dead: 193 positiv tested: 4093 total tested: 320000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+55 25.03. total touched: 489009 infected: 409891 recovered: 79118 hospitalized: 21 intensive care: 24 dead: 221 positiv tested: 4745 total tested: 342000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+56 26.03. total touched: 524723 infected: 436597 recovered: 88126 hospitalized: 22 intensive care: 27 dead: 244 positiv tested: 5439 total tested: 364000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+57 27.03. total touched: 562803 infected: 464602 recovered: 98201 hospitalized: 23 intensive care: 29 dead: 261 positiv tested: 6178 total tested: 386000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+58 28.03. total touched: 603508 infected: 494476 recovered: 109032 hospitalized: 24 intensive care: 32 dead: 290 positiv tested: 6964 total tested: 408000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+59 29.03. total touched: 646661 infected: 525256 recovered: 121405 hospitalized: 25 intensive care: 34 dead: 324 positiv tested: 7799 total tested: 430000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+60 30.03. total touched: 692626 infected: 557707 recovered: 134919 hospitalized: 26 intensive care: 37 dead: 368 positiv tested: 8807 total tested: 455000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+61 31.03. total touched: 741122 infected: 591239 recovered: 149883 hospitalized: 27 intensive care: 39 dead: 411 positiv tested: 9876 total tested: 480000 overwhelmed medical system: false
+Elapsed Time State change: 0.0 Minutes
+62 01.04. total touched: 792212 infected: 625975 recovered: 166237 hospitalized: 30 intensive care: 44 dead: 454 positiv tested: 11007 total tested: 505000 overwhelmed medical system: false
+Elapsed Time State change: 0.1 Minutes
+63 02.04. total touched: 845987 infected: 661470 recovered: 184517 hospitalized: 32 intensive care: 47 dead: 503 positiv tested: 12202 total tested: 530000 overwhelmed medical system: false
+Elapsed Time State change: 0.1 Minutes
+64 03.04. total touched: 903445 infected: 698856 recovered: 204589 hospitalized: 28 intensive care: 53 dead: 560 positiv tested: 13465 total tested: 555000 overwhelmed medical system: false
+Elapsed Time State change: 0.1 Minutes
+65 04.04. total touched: 963236 infected: 736392 recovered: 226844 hospitalized: 26 intensive care: 56 dead: 624 positiv tested: 14796 total tested: 580000 overwhelmed medical system: false
+Elapsed Time State change: 0.1 Minutes
+66 05.04. total touched: 1026623 infected: 775596 recovered: 251027 hospitalized: 28 intensive care: 57 dead: 685 positiv tested: 16198 total tested: 605000 overwhelmed medical system: false
+Elapsed Time State change: 0.1 Minutes
+67 06.04. total touched: 1092984 infected: 815514 recovered: 277470 hospitalized: 29 intensive care: 57 dead: 754 positiv tested: 17672 total tested: 630000 overwhelmed medical system: false
+Elapsed Time State change: 0.1 Minutes
+68 07.04. total touched: 1162595 infected: 856013 recovered: 306582 hospitalized: 29 intensive care: 59 dead: 851 positiv tested: 19219 total tested: 655000 overwhelmed medical system: false
+Elapsed Time State change: 0.1 Minutes
+69 08.04. total touched: 1235320 infected: 896863 recovered: 338457 hospitalized: 30 intensive care: 59 dead: 947 positiv tested: 20840 total tested: 680000 overwhelmed medical system: false
+Elapsed Time State change: 0.1 Minutes
+70 09.04. total touched: 1311751 infected: 938291 recovered: 373460 hospitalized: 30 intensive care: 60 dead: 1050 positiv tested: 22536 total tested: 705000 overwhelmed medical system: false
+Elapsed Time State change: 0.1 Minutes
+71 10.04. total touched: 1391259 infected: 979496 recovered: 411763 hospitalized: 30 intensive care: 58 dead: 1146 positiv tested: 24306 total tested: 730000 overwhelmed medical system: false

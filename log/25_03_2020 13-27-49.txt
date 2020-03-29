@@ -1,0 +1,39 @@
+Wed Mar 25 13:27:49 CET 2020: ---------------------3-------------------------
+Building population..
+0 1000000 2000000 3000000 4000000 5000000 6000000 7000000 8000000 9000000 10000000 11000000 12000000 13000000 14000000 15000000 16000000 17000000 18000000 19000000 20000000 21000000 22000000 23000000 24000000 25000000 26000000 27000000 28000000 29000000 30000000 31000000 32000000 33000000 34000000 35000000 36000000 37000000 38000000 39000000 40000000 41000000 42000000 43000000 44000000 45000000 46000000 47000000 48000000 49000000 50000000 51000000 52000000 53000000 54000000 55000000 56000000 57000000 58000000 59000000 60000000 61000000 62000000 63000000 64000000 65000000 66000000 67000000 68000000 69000000 70000000 71000000 72000000 73000000 74000000 75000000 76000000 77000000 78000000 79000000 80000000 81000000 82000000 
+0 30.01. total touched: 171 infected: 171 recovered: 0 hospitalized: 0 intensive care: 0 dead: 0 positiv tested: 0 total tested: 1000 overwhelmed medical system: false
+1 31.01. total touched: 215 infected: 215 recovered: 0 hospitalized: 0 intensive care: 0 dead: 0 positiv tested: 0 total tested: 2000 overwhelmed medical system: false
+2 01.02. total touched: 270 infected: 270 recovered: 0 hospitalized: 0 intensive care: 0 dead: 0 positiv tested: 0 total tested: 3000 overwhelmed medical system: false
+3 02.02. total touched: 347 infected: 347 recovered: 0 hospitalized: 0 intensive care: 0 dead: 0 positiv tested: 1 total tested: 4000 overwhelmed medical system: false
+4 03.02. total touched: 435 infected: 435 recovered: 0 hospitalized: 0 intensive care: 0 dead: 0 positiv tested: 1 total tested: 5000 overwhelmed medical system: false
+5 04.02. total touched: 547 infected: 547 recovered: 0 hospitalized: 0 intensive care: 0 dead: 0 positiv tested: 1 total tested: 6000 overwhelmed medical system: false
+6 05.02. total touched: 698 infected: 698 recovered: 0 hospitalized: 0 intensive care: 0 dead: 0 positiv tested: 2 total tested: 7000 overwhelmed medical system: false
+7 06.02. total touched: 897 infected: 897 recovered: 0 hospitalized: 0 intensive care: 0 dead: 0 positiv tested: 2 total tested: 8000 overwhelmed medical system: false
+8 07.02. total touched: 1129 infected: 1129 recovered: 0 hospitalized: 0 intensive care: 0 dead: 0 positiv tested: 2 total tested: 9000 overwhelmed medical system: false
+9 08.02. total touched: 1423 infected: 1423 recovered: 0 hospitalized: 7 intensive care: 0 dead: 0 positiv tested: 3 total tested: 10000 overwhelmed medical system: false
+10 09.02. total touched: 1796 infected: 1796 recovered: 0 hospitalized: 7 intensive care: 0 dead: 0 positiv tested: 4 total tested: 11500 overwhelmed medical system: false
+11 10.02. total touched: 2269 infected: 2269 recovered: 0 hospitalized: 5 intensive care: 3 dead: 0 positiv tested: 5 total tested: 13000 overwhelmed medical system: false
+12 11.02. total touched: 2897 infected: 2897 recovered: 0 hospitalized: 6 intensive care: 3 dead: 0 positiv tested: 6 total tested: 14500 overwhelmed medical system: false
+13 12.02. total touched: 3677 infected: 3677 recovered: 0 hospitalized: 7 intensive care: 3 dead: 0 positiv tested: 8 total tested: 16000 overwhelmed medical system: false
+14 13.02. total touched: 4723 infected: 4723 recovered: 0 hospitalized: 11 intensive care: 3 dead: 0 positiv tested: 10 total tested: 17500 overwhelmed medical system: false
+15 14.02. total touched: 5587 infected: 5587 recovered: 0 hospitalized: 16 intensive care: 3 dead: 0 positiv tested: 13 total tested: 19000 overwhelmed medical system: false
+16 15.02. total touched: 6560 infected: 6560 recovered: 0 hospitalized: 22 intensive care: 3 dead: 0 positiv tested: 16 total tested: 20500 overwhelmed medical system: false
+17 16.02. total touched: 7707 infected: 7707 recovered: 0 hospitalized: 26 intensive care: 5 dead: 0 positiv tested: 19 total tested: 22000 overwhelmed medical system: false
+18 17.02. total touched: 9004 infected: 8835 recovered: 169 hospitalized: 31 intensive care: 2 dead: 2 positiv tested: 23 total tested: 23500 overwhelmed medical system: false
+19 18.02. total touched: 10565 infected: 10352 recovered: 213 hospitalized: 45 intensive care: 5 dead: 2 positiv tested: 28 total tested: 25000 overwhelmed medical system: false
+20 19.02. total touched: 12363 infected: 12095 recovered: 268 hospitalized: 52 intensive care: 6 dead: 2 positiv tested: 37 total tested: 27500 overwhelmed medical system: false
+21 20.02. total touched: 14553 infected: 14208 recovered: 345 hospitalized: 71 intensive care: 8 dead: 2 positiv tested: 48 total tested: 30000 overwhelmed medical system: false
+22 21.02. total touched: 17127 infected: 16694 recovered: 433 hospitalized: 84 intensive care: 12 dead: 2 positiv tested: 61 total tested: 32500 overwhelmed medical system: false
+23 22.02. total touched: 20064 infected: 19519 recovered: 545 hospitalized: 112 intensive care: 14 dead: 2 positiv tested: 76 total tested: 35000 overwhelmed medical system: false
+24 23.02. total touched: 23516 infected: 22821 recovered: 695 hospitalized: 135 intensive care: 16 dead: 3 positiv tested: 93 total tested: 37500 overwhelmed medical system: false
+25 24.02. total touched: 27567 infected: 26673 recovered: 894 hospitalized: 157 intensive care: 19 dead: 3 positiv tested: 113 total tested: 40000 overwhelmed medical system: false
+26 25.02. total touched: 32201 infected: 31075 recovered: 1126 hospitalized: 177 intensive care: 20 dead: 3 positiv tested: 136 total tested: 42500 overwhelmed medical system: false
+27 26.02. total touched: 37659 infected: 36239 recovered: 1420 hospitalized: 207 intensive care: 23 dead: 3 positiv tested: 163 total tested: 45000 overwhelmed medical system: false
+28 27.02. total touched: 43930 infected: 42138 recovered: 1792 hospitalized: 250 intensive care: 23 dead: 4 positiv tested: 195 total tested: 47500 overwhelmed medical system: false
+29 28.02. total touched: 51453 infected: 49189 recovered: 2264 hospitalized: 299 intensive care: 24 dead: 5 positiv tested: 232 total tested: 50000 overwhelmed medical system: false
+30 29.02. total touched: 60111 infected: 57221 recovered: 2890 hospitalized: 358 intensive care: 33 dead: 7 positiv tested: 318 total tested: 55000 overwhelmed medical system: false
+31 01.03. total touched: 70142 infected: 66472 recovered: 3670 hospitalized: 414 intensive care: 43 dead: 7 positiv tested: 418 total tested: 60000 overwhelmed medical system: false
+32 02.03. total touched: 81628 infected: 76915 recovered: 4713 hospitalized: 472 intensive care: 55 dead: 10 positiv tested: 534 total tested: 65000 overwhelmed medical system: false
+33 03.03. total touched: 95053 infected: 89479 recovered: 5574 hospitalized: 552 intensive care: 63 dead: 13 positiv tested: 669 total tested: 70000 overwhelmed medical system: false
+34 04.03. total touched: 110651 infected: 104105 recovered: 6546 hospitalized: 637 intensive care: 75 dead: 14 positiv tested: 826 total tested: 75000 overwhelmed medical system: false
+35 05.03. total touched: 123352 infected: 115661 recovered: 7691 hospitalized: 744 intensive care: 84 dead: 16 positiv tested: 1000 total tested: 80000 overwhelmed medical system: false
